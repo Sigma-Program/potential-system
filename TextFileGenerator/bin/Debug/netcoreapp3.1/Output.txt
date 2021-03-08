@@ -1,0 +1,7 @@
+This is one of the things you typed: blah.
+
+This was generated on: 9:47:10 PM on Wednesday, March 3, 2021.
+
+This file is also located at: E:\Programming Workspaces\Visual Studio Projects\TextFileGenerator\bin\Debug\netcoreapp3.1
+3.1
+\netcoreapp3.1
